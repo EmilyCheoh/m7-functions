@@ -2,6 +2,8 @@
 
 # Write a function `AddThree` that adds 3 to an input value
 
+# :)
+
 AddThree <- function(a) {
   return (a + 3)
 }
